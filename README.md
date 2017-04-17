@@ -15,9 +15,11 @@ In this project you have :
 * An AdminController :
     * Prefixed with **/admin** in **routing.yml**
     * All routes require **ROLE_ADMIN**
+    * A default **admin_home** view
 * An UserController:
     * Prefixed with **/user** in **routing.yml**
     * All routes require **ROLE_USER** or **ROLE_ADMIN**
+    * A default **user_home** view
 * A default route **/redirect-after-login** in **AppBundle:Controller:DefaultController**
 * A default **main.css** in **web/css**
 * A starter template with Bootstrap 3
