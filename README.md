@@ -22,7 +22,7 @@ In this project you have :
     * A default **user_home** view
 * A default route **/redirect-after-login** in **AppBundle:Controller:DefaultController**
 * A default **main.css** in **web/css**
-* A starter template with Bootstrap 3
+* A starter template with Bootstrap 3 CSS|JS and jQuery
 
 * For quickly send emails, you can use [MailGun](https://mailgun.com) for get :
     * mailer_host
