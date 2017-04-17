@@ -24,8 +24,6 @@ In this project you have :
 * A default **main.css** in **web/css**
 * A starter template with Bootstrap 3
 
-Configuration : 
-
 * For quickly send emails, you can use [MailGun](https://mailgun.com) for get :
     * mailer_host
     * mailer_user
@@ -33,3 +31,5 @@ Configuration :
     
     And configure them in parameters.yml
 
+Ask me if you need help or if you need something else in the sandbox :)
+====
