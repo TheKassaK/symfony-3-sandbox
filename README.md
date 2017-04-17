@@ -1,4 +1,4 @@
-Symfony 3 Sandbox : FOSUser
+Symfony 3 Sandbox with FOSUserBundle
 ===================
 
 This project is a Sandbox for start a Symfony 3 project quickly
